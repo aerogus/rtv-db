@@ -23,7 +23,7 @@ convert -background none CCC.png -resize 300x95 CCC.png
 ## Pour le jpg
 
 ```bash
-convert CCC.png -resize 90x80 -gravity center -extent 100x80 CCC.jpg
+convert CCC.png -background white -resize 90x80 -gravity center -extent 100x80 CCC.jpg
 ```
 
 ## Optimisation
