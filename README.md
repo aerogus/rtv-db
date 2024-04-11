@@ -40,8 +40,3 @@ puis
 imageoptim *.png
 imageoptim *.jpg
 ```
-
-## Source TV
-
-http://v.ktv.zone/l.m3u
-
