@@ -40,3 +40,16 @@ puis
 imageoptim *.png
 imageoptim *.jpg
 ```
+
+## Ressources
+
+- https://github.com/streamlink/streamlink/blob/master/tests/plugins/test_artetv.py
+- https://github.com/streamlink/streamlink/blob/master/tests/plugins/test_bfmtv.py
+- https://github.com/streamlink/streamlink/blob/master/tests/plugins/test_cnews.py
+- https://github.com/streamlink/streamlink/blob/master/tests/plugins/test_euronews.py
+- https://github.com/streamlink/streamlink/blob/master/tests/plugins/test_pluto.py
+- https://github.com/streamlink/streamlink/blob/master/tests/plugins/test_pluzz.py (FTV)
+- https://github.com/streamlink/streamlink/blob/master/tests/plugins/test_tv5monde.py
+- https://github.com/streamlink/streamlink/blob/master/tests/plugins/test_youtube.py
+- https://github.com/streamlink/streamlink/blob/master/tests/plugins/test_twitch.py
+
