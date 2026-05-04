@@ -9,6 +9,6 @@ echo "$INPUT -> $CCC.png"
 magick -background none "$INPUT" -resize 300x95 "$CCC.png"
 
 echo "$INPUT -> $CCC.jpg"
-magick "$INPUT" -resize 90x80 -gravity center -extent 100x80 "$CCC.jpg"
+magick "$INPUT" -background white -resize 90x80 -gravity center -extent 100x80 "$CCC.jpg"
 
 echo "FIN"
